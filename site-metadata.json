@@ -1,6 +1,6 @@
 {
     "base_font": "fira-sans",
-    "palette": "cyan",
+    "palette": "blue",
     "header": {
         "logo_img_alt": "Alusun",
         "has_nav": true,
